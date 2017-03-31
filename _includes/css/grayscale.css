@@ -387,4 +387,5 @@ text-align: center; /* Center our text */
 ul.a {
     list-style-type: circle;
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 18px
 }
