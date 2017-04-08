@@ -367,7 +367,7 @@ body {
 }
 
 /* Adjustments to table, ul added for Anna's website*/
-table.center {
+table {
 color: #333; /* Lighten up font color */
 font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif; /* Nicer font */
 width: 640px;
